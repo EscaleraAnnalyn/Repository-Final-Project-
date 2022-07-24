@@ -1,0 +1,345 @@
+2nd Activity
+<!DOCTYPE html>
+<html>
+<head>
+<title> Second activity-Escalera,Annalyn M.</title>
+</head>
+<body background="https://c.tenor.com/2EAllR48wZMAAAAi/borboletas-butterflies.gif.gif" style="background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+<center><h1 style="border:2px solid Tomato;color:#8879B0;">"My Second Activity"</h1>
+<center><h1 style="border-bottom:1px solid black;border-top:1px solid black;color:#5800FF;"><b>Good day!</b> let's try  <b> THE HTML PRACTICE</b></h1>
+<center>
+<h2 style="color:#377D71;display:inline-block;1px solid #FAA0A0;">Facebook</h2>
+<h3 style="color:#3.77D71;"> Napili ko ang Facebook dahil araw-araw ko itong ginagamit dahil dito nalilibang ko ang sarili ko kakapanuod memes at iba pang videos,Ang Facebook ang isa sa pangunahing ginagamit ng mga tao upang makag communicate sa kanilang mahal sa buhay.Maraming pwedeng gawin sa facebook gaya na lamang ng pag post sa iyong wall, pwede mong iprivate ang mga pictures mo. At naki keep nito ang mga pictures na pwede mong balikan after a year. Dahil din sa Facebook mas madali tayong nabibigayan ng mga information. </h3>
+</center>
+<center>
+<h2 style="color:#810955;display:inline-block; 1px solid green;">Messenger</h2>
+<h3 style="color:#810955;">Ito ang pangunahing ginagamit ko at ng ibang tao lalo na kapag nakikipag communicate sa kanilang mahal sa buhay o sa taong gusto nilang bigyan ng information. Isa sa nagustuhan ko sa messenger ay pwede tayong makatawag o makapag video call. Mas napapadali nito ang way ng pakikipag communicate. Nagagamit din ng mga students ang messenger kapag nagsesend ng files or videos.  </h3>
+<center>
+<h2 style="color:#FA58B6;display:inline-block; 1px solid purple;">Youtube</h2>
+<h3 style="color:#FA58B6;">Ang youtube ang isa sa pinaka importante lalo na sa mga students. Ang youtube ang nagbibigay ng information kapag may gustong malaman ang mga tao. Dahil sa YouTube mas napapadali tayong matututo sa isang bagay na gusto nating malaman. Ito din ang easy way para malaman ang latest issues na nagaganap sa ating bansa at iba pa. </h3>
+</center>
+<center>
+<h2 style="color:#E8AA42;display:inline-block;;1px solid yellow;">Tiktok</h2>
+<h3 style="color:#E8AA42">Ang TikTok ang isa sa din sa mga patok na ginagamit ng tao. Kaya ito din ang aking napili dahil pwede tayong makapanuod ng mga videos at memes dito. Nakakalibang gamitin ito lalo na kapag stress, nagbibigay aliw sya para sakin. Pwede tayong mag upload ng sayaw at ibang videos na gusto nating iupload. </h3>
+</center>
+<center>
+<h2 style="color:#2F8F9D;display:inline-block; 1px solid pink;">Quillbot</h2>
+<h3 style="color:#2F8F9D;">Ito ang palagi kong ginagamit kapag hindi ako confident sa sentences ko. Ang quillbot ang nagpapaganda sa English sentences at nababago nito ang mga sentences na hindi accurate. Ang quillbot din ang nagpapahaba sa sentences na gusto kong iparaphrase. Sobrang laki ng tulong nito lalo na sa mga students na hindi ganon kagaling sa english.  </h3>
+</center>
+<center><h1 style="border-bottom:2px solid gray;"></h1>
+<form>
+<center>
+<table border="1" width="200px" height="auto">
+  <tbody><tr>
+    <th rowspan="6" style="color:#black;">Search</th>
+    <th colspan="2" style="color:#black;">Browser</th>
+    <th style="color:#black;">Website</th>
+	<th style="color:#black;">Links</th>  
+</tr>
+<tr>
+  
+    <td style="color:#EB1D36;">GOOGLE</td>
+    <td style="color:#EB1D36;">FIREFOX</td>
+ <td style="color:#EB1D36;">Facebook</td>
+ <td><a style="color:#solid blue;" href="https://www.Facebook.com" "="" target="_blank">https://www.Facebook.com</a></td>
+  </tr>
+
+  <tr>
+    
+    <td style="color:#EB1D36;">GOOGLE</td>
+    <td style="color:#EB1D36;">FIREFOX</td>
+ <td style="color:#EB1D36;">Messenger</td>
+ <td> <a style="color:#solid blue;" href="https://www.messenger.com" "="" target="_blank">https://www.messenger.com</a></td>
+  </tr>   
+<td style="color:#EB1D36;">GOOGLE</td>
+    <td style="color:#EB1D36;">FIREFOX</td>
+ <td style="color:#EB1D36;">Youtube</td>
+ <td> <a style="color:#solid blue;" href="https://www.Youtube.com" "="" target="_blank">https://www.Youtube.com</a></td>
+  </tr>
+  <td style="color:#EB1D36;">GOOGLE</td>
+  <td style="color:#EB1D36;">FIREFOX</td>
+  <td style="color:#EB1D36;">Tiktok</td>
+  <td> <a style="color:#solid blue;" href="https://www.Tiktok.com" "="" target="_blank">https://www.Tiktok.com</a></td>
+  </tr>
+  <td style="color:#EB1D36;">GOOGLE</td>
+  <td style="color:#EB1D36;">FIREFOX</td>
+  <td style="color:#EB1D36;">Quillbot</td>
+  <td> <a style="color:#solid blue;" href="https://www.Quillbot.com" "="" target="_blank">https://www.Quillbot.com</a></td>
+  </tr>
+  </body>
+  </table>
+ </html>
+ </body>
+ <br>
+ <a href="FinalProject.html">
+ <button type="button" class="button">
+ <img src="https://i.pinimg.com/originals/54/d9/45/54d945108a7b4db8a90d90fd03e34876.gif" alt="favorite button"height=50px><br>FINAL PROJECT</br>
+ </span>
+ </button>
+ </a>
+ </tbody>
+ </center>
+ </br>
+   
+3rd Activity 
+<!DOCTYPE> <html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<meta name="viewport" content="width-width-device,inicltial scale 1.0 "> 
+<link rel= "stylesheet" href="Mystyle.css">
+<title> Activity 3</title>
+
+</head>
+<style>
+body {
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7bTejTVU-VY4egG0Q4Q-eA4FZKWfVosTpA&usqp=CAU');
+  background-repeat:no-repeat;  
+    background-size:cover;
+    background-attachment: fixed;
+}
+{
+background-color: 444941
+font-size; 16px
+font-family- Arial black
+color;solid black
+margin; 15px
+}
+h1
+{
+bacbackground-color:D5EEBB ;
+ color: D18CE0;
+ font-style: normal;
+ Font-family: Gill Sans;
+ border-style: double;
+ capacity: 50%;
+ outline-color: transparent;
+ text-shadow: 1px 1px 2px rgb(255,0,255);
+ text-align: center;
+ }
+ h4
+ {
+ color: Black;
+ font-style: normal;
+ Font-family: Gill Sans, Calibri;
+ border-color: 5F7A61;
+ border-style: double;
+ capacity: 50%;
+ border-radius: 0%;
+ outline-color: transparent
+ }
+</style>
+<center>
+<h1>My 3rd Activity</h1>
+<h3>Good Day! Let's try  THE CSS PRACTICE</h3>
+<p>
+<h2><a href="https://free.facebook.com/"target=_blank><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNDzKkRTV_9R3fSIR7PTZyUpKXINHs8BnRg&usqp=CAU: height=75px></a>
+<h4>.Napili ko ang Facebook dahil araw-araw ko itong ginagamit dahil dito nalilibang ko ang sarili ko kakapanuod memes at iba pang videos,Ang Facebook ang isa sa pangunahing ginagamit ng mga tao upang makag communicate sa kanilang mahal sa buhay.Maraming pwedeng gawin sa facebook gaya na lamang ng pag post sa iyong wall, pwede mong iprivate ang mga pictures mo. At naki keep nito ang mga pictures na pwede mong balikan after a year. Dahil din sa Facebook mas madali tayong nabibigayan ng mga information.
+</p>
+</h4>
+<h2><a href=https://messenger.com/"target=_blank><img src="https://img.icons8.com/cotton/512/facebook-messenger--v3.png" height=75px></a>
+<h4>
+<p>
+Ito ang pangunahing ginagamit ko at ng ibang tao lalo na kapag nakikipag communicate sa kanilang mahal sa buhay o sa taong gusto nilang bigyan ng information. Isa sa nagustuhan ko sa messenger ay pwede tayong makatawag o makapag video call. Mas napapadali nito ang way ng pakikipag communicate. Nagagamit din ng mga students ang messenger kapag nagsesend ng files or videos.
+</p>
+</h4>
+<h2><a href="https://www.youtube.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCEQbf1C5fg2_mjEkC363-OGFxmAXHjak8YxinNNOimnDEYI3V0EvI5ou&s=10" height=75px></a>
+<h4>
+<p>
+Ang youtube ang isa sa pinaka importante lalo na sa mga students. Ang youtube ang nagbibigay ng information kapag may gustong malaman ang mga tao. Dahil sa YouTube mas napapadali tayong matututo sa isang bagay na gusto nating malaman. Ito din ang easy way para malaman ang latest issues na nagaganap sa ating bansa at iba pa.
+</p>
+</h4>
+<h2><a href="https://www.tiktok.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwsAV1hdnKT2R1fsLzB7pE3A46WLuEnn5uA&usqp=CAU" height=75px></a>
+<h4>
+<p>
+Ang TikTok ang isa sa din sa mga patok na ginagamit ng tao. Kaya ito din ang aking napili dahil pwede tayong makapanuod ng mga videos at memes dito. Nakakalibang gamitin ito lalo na kapag stress, nagbibigay aliw sya para sakin. Pwede tayong mag upload ng sayaw at ibang videos na gusto nating iupload.
+</p>
+</h4>
+<h2><a href="https://quillbot.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSjTI5H1HZr6Kv2KJlzt7WvIviHQOtSmQXw&usqp=CAU" height=75px></a>
+<h4>
+<p>
+Ito ang palagi kong ginagamit kapag hindi ako confident sa sentences ko. Ang quillbot ang nagpapaganda sa English sentences at nababago nito ang mga sentences na hindi accurate. Ang quillbot din ang nagpapahaba sa sentences na gusto kong iparaphrase. Sobrang laki ng tulong nito lalo na sa mga students na hindi ganon kagaling sa english.
+</p>
+</h4>
+</center>
+</body>
+</html>
+</h2>
+<a href="FinalProject.html">
+<button type="button" class="button">
+<img src="https://i.pinimg.com/originals/54/d9/45/54d945108a7b4db8a90d90fd03e34876.gif" alt="favorite button"height=50px><br>FINAL PROJECT</br>
+</span>
+</button>
+</a>
+  </h2>
+
+Activity 4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="design.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid #FDD7AA;">User Information</h1>
+     
+     <center>  
+    <nav> <img src="1651592045303.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> MY INFORMATION</h3>
+<p id="b2"> Annalyn M. Escalera</p>
+<p id="b3"> 20 years old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Manila</b></p>
+     <p id="b6">CIVIL STATUS:</p>
+ <p id="b7"><b>Single </b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman Catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="back.html">
+<style ="></style>
+<button type="button" class="button">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolvReQ4pFbn5vWSauQHYaOjfMndygJNA4TQ&usqp=CAU" alt="user button"height=50px>
+<span class="button_icon">
+</span>
+</button>
+</a>
+<p id="p1"><b>HOME</b> is if you want to view the menu which is you can see FAVORITES and USER, you can click home icon<</p>
+
+</body>
+</html>
+<br>
+<a href="FinalProject.html">
+ <button type="button" class="button">
+ <img src="https://i.pinimg.com/originals/54/d9/45/54d945108a7b4db8a90d90fd03e34876.gif" alt="favorite button"height=50px><br>FINAL PROJECT</br>
+ </span>
+ </button>
+ </a>
+ </br>
+
+Activity 5
+<!DOCTYPE>
+<head>
+<title></title>
+<link rel="stylesheet"href="design.css">
+</head>
+<body>
+ 
+ <head>
+ <h1>The Family</h1>
+
+      <p  id="p1">
+       <b><center><img src="father.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+      <p id="p1"> This is my father, and I am proud of her because he still supports my siblings despite the fact that they have a family. I am also proud of her because he is a lovable person .
+       <a href="papa.html">
+       <button type="button" class="button">
+       <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+       <span class="button_icon">
+       </span>
+       </button>
+       </a>
+       </p>
+        </p>
+        
+        <p  id="p1">
+        <b><center><img src="Mom.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is my mother who can do a lot she's my hero and she love us even we are pasaway Hahahahaha .
+        <a href="Mama.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        
+      <p  id="p1">
+        <b><center><img src="Ate1.jpeg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is my sister she left his children to us but even that I will support and still love them .
+        <a href="Regine.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+       <p id="p1">
+        <b><center><img src="kuya.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is my brother he is pasaway and he is always problem of my parents hahaha but he is helpful person.
+        <a href="Ryan.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+      <p  id="p1">
+        <b><center><img src="me.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is me the daugher of my parents and also I am the good person in our house hahahaha and also I am the pretties daugther of my mom and my dad.
+        <a href="user.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+      <p  id="p1">
+        <b><center><img src="len.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is one of my favorite nephew she's so cute and tender kid.
+        <a href="melen.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+      <p  id="p1">
+        <b><center><img src="michael.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is my boyfriend who always support and loving me.
+        <a href="michael.html">
+        <button type="button" class="button">
+        <img src="seeprofile.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+        <a href="back.html">
+        <style ="></style>
+        <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolvReQ4pFbn5vWSauQHYaOjfMndygJNA4TQ&usqp=CAU" alt="user button"height=50px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        <p id="p1"><b>HOME</b> Click the button to back home<</p>    
+        </body>
+        </html>
+        <br>
+        <a href="FinalProject.html">
+        <button type="button" class="button">
+        <img src="https://i.pinimg.com/originals/54/d9/45/54d945108a7b4db8a90d90fd03e34876.gif" alt="favorite button"height=50px><br>FINAL PROJECT</br>
+        </span>
+        </button>
+        </a>
+        </br>
+        
+        
